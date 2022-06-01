@@ -9,5 +9,3 @@ Some essential information:
 - Average Open Source Software enjoyer. Check out this [Telegram Channel](https://t.me/open_source_friend) about FOSS
 - I love electronic (ambient, breakcore, chiptune, intelligent dnb) and classical music
 - You can contact me using email `shoraii [at] hotmail [dot] com`
-
-Peace out!
